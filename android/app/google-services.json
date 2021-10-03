@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370252441317",
+    "project_id": "bien-unido",
+    "storage_bucket": "bien-unido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370252441317:android:606fe536b2fcfd01b8160c",
+        "android_client_info": {
+          "package_name": "com.bienunido.bien_unido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370252441317-c9q9p15igmd0pc692tpc902ifl44mc63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdJDIR47SoJhDgzZGs6D5qFJaniwI0qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370252441317-c9q9p15igmd0pc692tpc902ifl44mc63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
